@@ -3,4 +3,4 @@ Just one plot this week! Choose to plot anything you wish, from the data we used
 
 Put thought into the esthetic of the plot, how clearly the content is communicated, avoid clutter, avoid misleading elements, mind your choice of colors accordingly to what was discussed in class. If you wish to violate these rules on purpose you can! but put thoughts into it as well please!
 
-![image](https://github.com/yuqiaocen/PUI2015_ycen/HW8/yc2439_income.png)
+![image](https://github.com/yuqiaocen/PUI2015_ycen/blob/master/HW8/yc2439_income.png)
