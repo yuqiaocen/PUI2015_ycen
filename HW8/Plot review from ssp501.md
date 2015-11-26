@@ -6,7 +6,7 @@ I think the 3-D histogram make me a little confuse. I nearly cannot identify eac
 
 The color is good. But transparency make it confused.
 
-Honesty
+3. Honesty
 
 I think the data is honest.
 
