@@ -1,6 +1,6 @@
 ###1. Clarity
 
-I think plot is not really clear. It may be better if the plot separate the red column and gray column and mark the nomber on the top of the column.
+I think plot is not really clear. It may be better if the plot separate the red column and gray column and mark the number on the top of the column.
 
 ###2. Esthetics
 
