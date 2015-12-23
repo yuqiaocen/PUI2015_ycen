@@ -1,0 +1,68 @@
+the review were okk but superficial 9/10
+
+NOTES ON YOUR PLOT
+===================
+
+the plot is very busy. 
+
+no point in starting at the negative range: remove the <0 space
+
+two legends for the regression lines and the datapoints may be better: clearer less overwhelming
+
+association of color to rage triggers preconceptions. since you have few categories shapes may be a better choice.
+
+
+
+
+
+
+NOTES ON YOUR PLOT THE PLOTS YOU REVIEWED
+===========================================
+
+
+mam1612
+============
+
+stack histograms are difficult to read: given the few bins side by side histogram would have been a better choice
+
+Others should probably not be the first bin, but the last. otherwise reading left to right the reader does not know other from what
+
+the last label is too long: split into 2 rows
+
+
+legend way too small
+
+choosing one category to be gray the other one a vivid color give the impression that one is more important or relevant than the other (which may or may not be intended given the context)
+
+
+
+ssp501
+============
+
+
+the 3d as usual makes comparison difficult. additionally 3d bind distort the perception: we should compare differences in height but we are left with the impression given byt he difference in volumes
+
+the color is redundant with the year 
+
+tick labels too small
+
+the cause of dheath axis labels are offset with respect to the variable
+
+typo in the title (parenthesis close that was never open)
+
+
+
+
+jn1573
+============
+
+nice visualization
+
+some labels cannot be read (blue on blue)
+
+the animation is jittery on roll over: add a delay to overcome that
+
+the animation is also unnecessary since seecting a bubble does not d anything. teh circle around it would be justified if info appeared, to clarify what the info refers to
+
+the zoom is also unnecessary as it does not reveal any details, just hides the details about the rest of the data
+
